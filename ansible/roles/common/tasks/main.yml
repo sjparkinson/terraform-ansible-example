@@ -1,0 +1,5 @@
+---
+# Common functionality for all instances.
+
+- name: Print a statment.
+  debug: msg="Hello instance!"

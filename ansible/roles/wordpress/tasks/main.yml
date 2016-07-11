@@ -1,0 +1,5 @@
+---
+# Common functionality for WordPress application instances.
+
+- name: Print a statment.
+  debug: msg="Hello WordPress instance!"
